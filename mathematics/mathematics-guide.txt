@@ -1,0 +1,9 @@
+In this I learnt basic math prograaming 
+
+1) Count Digits - Iterative / Recursive / Logarithmic
+2) Factorial - Iterative/ Recursive
+3) Trelling zeros - Using General solution
+4) Palindrome - Reverse and equate
+5) GCD - Euclidean Algo / Optimized Euclidean Algo
+6) LCM - Using GCD
+7) Check Prime - Optimizing it to O(sqrt(n)) {x*x <= n} / Optimizing it more by checking remainder with prime numbers
