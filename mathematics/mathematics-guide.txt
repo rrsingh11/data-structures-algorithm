@@ -7,4 +7,5 @@ In this I learnt basic math prograaming
 5) GCD - Euclidean Algo / Optimized Euclidean Algo
 6) LCM - Using GCD
 7) Check Prime - Optimizing it to O(sqrt(n)) {x*x <= n} / Optimizing it more by checking remainder with prime numbers
-8) PrimeFcators
+8) Prime Fcators - Same as check prime
+9) All Divisors of the numbers - Same as check prime
