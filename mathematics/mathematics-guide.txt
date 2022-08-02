@@ -10,3 +10,4 @@ In this I learnt basic math prograaming
 8) Prime Fcators - Same as check prime
 9) All Divisors of the numbers - Same as check prime
 10) Compute Power - Recursive / Iterative
+11) Sieve of Eratosthenes - Find all prime numbers till n
