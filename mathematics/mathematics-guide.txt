@@ -1,4 +1,4 @@
-In this I learnt basic math prograaming 
+In this I learnt basic math programming 
 
 1) Count Digits - Iterative / Recursive / Logarithmic
 2) Factorial - Iterative/ Recursive

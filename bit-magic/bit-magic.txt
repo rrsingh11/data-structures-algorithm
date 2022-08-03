@@ -1,0 +1,5 @@
+In this I learnt more about bits
+
+1) Bit-wise Operators -> {'&' , '|' , '^' , '<<' , '>>' , '~'}
+
+
