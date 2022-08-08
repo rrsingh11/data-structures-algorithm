@@ -1,5 +1,8 @@
 In this I learnt more about bits
 
 1) Bit-wise Operators -> {'&' , '|' , '^' , '<<' , '>>' , '~'}
+2) Check kth bit
+3) Count set bits
+4) Power of 2
 
 
