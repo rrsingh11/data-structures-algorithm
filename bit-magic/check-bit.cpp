@@ -19,7 +19,7 @@ Solution:- (Method 1)
     Now find the AND of 101 and 100  => 
                0 1 0 1
                0 1 0 0
-             =>0 1 0 0 (4)
+        AND=>  0 1 0 0 (4)
         As 4 is not equal to zero this bit is set 
 
 
@@ -33,7 +33,7 @@ Solution:- (method 2)
     check AND of 0000 0001 and 0000 0001 
                 0 0 0 1
                 0 0 0 1
-            =>  0 0 0 1 (1)
+         AND=>  0 0 0 1 (1)
         As value is 1 then the bit is set  
 */
 void method1(int n,int k)
