@@ -4,5 +4,6 @@ In this I learnt more about bits
 2) Check kth bit
 3) Count set bits
 4) Power of 2
+5) Odd Occurance
 
 

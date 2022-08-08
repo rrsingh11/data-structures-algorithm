@@ -14,7 +14,7 @@ int main()
 {
     int n = 4;
     int m = 6;
-    cout << power_of_two(n) << endl;
-    cout << power_of_two(m) << endl;
+    cout << power_of_two(n) << endl; // 1
+    cout << power_of_two(m) << endl; // 0
     return 0;
 }

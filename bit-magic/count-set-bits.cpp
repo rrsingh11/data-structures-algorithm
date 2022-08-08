@@ -94,9 +94,9 @@ int method3(int n)
 int main()
 {
     int n = 5;
-    cout << method1(n) << endl;
-    cout << method2(n) << endl;
+    cout << method1(n) << endl; //2
+    cout << method2(n) << endl; //2
     initialize();
-    cout << method3(n) << endl;
+    cout << method3(n) << endl; //2
     return 0;
 }

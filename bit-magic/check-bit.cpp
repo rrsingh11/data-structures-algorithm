@@ -55,7 +55,7 @@ int main()
     int n=5;
     int k=3;
 
-    method1(n,k);
-    method2(n,k);
+    method1(n,k);//Yes
+    method2(n,k);//Yes
     return 0;
 }
