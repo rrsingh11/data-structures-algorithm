@@ -10,6 +10,12 @@ using namespace std;
 
     So we will justdo the XOR of all the numbers-
         - It will cancel out all the numbers occured even number of times and at last we will get the number which occured odd no. of times.
+
+arr= {1,3,3,4,1}
+In this ->  1 XOR 3 XOR 3 XOR 4 XOR 1
+             => 1 XOR 1 = 0
+                3 XOR 3 = 0 
+                4 will remain
 */
 int odd_occurance(int arr[],int n)  
 {
