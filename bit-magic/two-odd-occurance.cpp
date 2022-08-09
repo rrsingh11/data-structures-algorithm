@@ -61,7 +61,7 @@ void method1(int arr[],int n)
         
         else res2 = res2 ^ arr[i];
     }
-    cout << res1 << " " << res2;
+    cout << res1 << " " << res2;//res1-3 res-4
 }
 int main()
 {

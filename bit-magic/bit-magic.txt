@@ -6,5 +6,6 @@ In this I learnt more about bits
 4) Power of 2
 5) Odd Occurance
 6) Two odd occurances
+7) Power Set
 
 
