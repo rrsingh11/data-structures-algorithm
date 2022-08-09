@@ -1,0 +1,5 @@
+In this I learnt- 
+
+1) Recursion baiscs - Handritten notes
+2) Decimal to Binary
+3) Print n to 1 numbers
