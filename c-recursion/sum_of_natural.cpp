@@ -10,7 +10,7 @@ int sum_of_natural(int n)
 int main()
 {
     int n;
-    cin >> n;
-    cout << sum_of_natural(n) << endl;
+    cin >> n; //5
+    cout << sum_of_natural(n) << endl; //15
     return 0;
 }

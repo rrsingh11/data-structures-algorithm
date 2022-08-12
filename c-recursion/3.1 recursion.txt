@@ -4,3 +4,4 @@ In this I learnt-
 2) Decimal to Binary
 3) Print n - n to 1 and 1 to n
 4) Sum of N natural numbers
+5) Check string Palindrome
