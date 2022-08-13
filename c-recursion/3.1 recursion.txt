@@ -5,3 +5,5 @@ In this I learnt-
 3) Print n - n to 1 and 1 to n
 4) Sum of N natural numbers
 5) Check string Palindrome
+6) Sum of digits
+7) Rope Cutting Problem
