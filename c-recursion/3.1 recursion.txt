@@ -7,3 +7,4 @@ In this I learnt-
 5) Check string Palindrome
 6) Sum of digits
 7) Rope Cutting Problem
+8) Subsets of a string
