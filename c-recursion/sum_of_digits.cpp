@@ -21,9 +21,9 @@ int it_sod(int n)
 int main()
 {
     int n;
-    cin >> n;
-    cout << rec_sod(n) << endl;
-    cout << it_sod(n) << endl;
+    cin >> n; // 456
+    cout << rec_sod(n) << endl; //15
+    cout << it_sod(n) << endl; //15
     return 0;
 }
 // Note: Whenever there is an option of iterative solution we use iterative solution because it will take less time and less auxillary space 

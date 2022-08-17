@@ -8,3 +8,4 @@ In this I learnt-
 6) Sum of digits
 7) Rope Cutting Problem
 8) Subsets of a string
+9) Tower of Hanoi

@@ -19,3 +19,16 @@ int main()
     subsets(s);
     return 0;
 }
+
+/*
+Output:-
+        
+        C
+        B
+        BC
+        A
+        AC
+        AB
+        ABC
+
+*/

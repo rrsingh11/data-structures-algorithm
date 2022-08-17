@@ -13,8 +13,8 @@ int main()
     string s1 = "abcba";
     string s2 = "abba";
     string s3 = "acbc";
-    cout << isPalindrome(s1 , 0 , s1.size()-1) << endl;
-    cout << isPalindrome(s2 , 0 , s2.size()-1) << endl;
-    cout << isPalindrome(s3 , 0 , s3.size()-1) << endl;
+    cout << isPalindrome(s1 , 0 , s1.size()-1) << endl; //1
+    cout << isPalindrome(s2 , 0 , s2.size()-1) << endl; //1
+    cout << isPalindrome(s3 , 0 , s3.size()-1) << endl; //0
     return 0;
 }

@@ -20,9 +20,9 @@ int max_pieces(int n, int a, int b, int c)
 int main()
 {
     int n,a,b,c;
-    cin >> n;
-    cin >> a >> b >> c;
-    cout << max_pieces(n,a,b,c) << endl;
+    cin >> n;//9
+    cin >> a >> b >> c;//2 3 4
+    cout << max_pieces(n,a,b,c) << endl; // 4 
     return 0;
 }
 //Better solution using Dynamic Programming
