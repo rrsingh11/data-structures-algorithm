@@ -11,4 +11,5 @@ In this I learnt-
 9) Tower of Hanoi
 10) Josephus Problem
 11) Subsets-Sum
+12) All Permutations
 
