@@ -1,2 +1,4 @@
 1) Largest element
 2) Second Largest element
+3) Check sorted
+4) Reverse an array
