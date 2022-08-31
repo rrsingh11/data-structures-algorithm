@@ -27,6 +27,6 @@ int main()
     int n = 5;
     int arr[]= {1,2,3,4,5};
     reverse(arr,n);
-    printArray(arr,n);
+    printArray(arr,n); // 5 4 3 2 1
     return 0;
 }
