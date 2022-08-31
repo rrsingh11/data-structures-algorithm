@@ -3,3 +3,4 @@
 3) Check sorted
 4) Reverse an array
 5) Remove Duplicate from sorted array
+6) Move zero from end
