@@ -5,3 +5,4 @@
 5) Remove Duplicate from sorted array
 6) Move zero from end
 7) Left rotate an array
+8) Leaders in an array
