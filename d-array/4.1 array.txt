@@ -7,3 +7,4 @@
 7) Left rotate an array
 8) Leaders in an array
 9) Maximum Difference
+10) Frequency in a sorted array
