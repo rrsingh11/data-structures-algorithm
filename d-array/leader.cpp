@@ -1,3 +1,4 @@
+//To find the leaders of the array, basically a number which is largest to its right
 #include<iostream>
 using namespace std;
 
