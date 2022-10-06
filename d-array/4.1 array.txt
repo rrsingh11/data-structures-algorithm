@@ -9,3 +9,4 @@
 9) Maximum Difference
 10) Frequency in a sorted array
 11) Stock Buy and Sell
+12) Trapping rainwater problem
